@@ -1,0 +1,39 @@
+¿Qué significa HTML?;Hypertext Markup Language;Hyper Tool Markup Language;Home Tool Markup Language;High Text Markup Language;1
+¿Qué es CSS?;Cascading Style Sheets;Creative Style Sheets;Computer Style Sheets;Coded Style Sheets;1
+¿Cuál de las siguientes opciones no es un lenguaje de programación web?;SQL;JavaScript;Python;HTML;1
+¿Qué significa API?;Application Programming Interface;Application Protocol Interface;Automated Program Interface;Application Program Integration;1
+¿Cuál es el método HTTP utilizado para solicitar datos del servidor?;GET;POST;PUT;DELETE;1
+¿Qué significa AJAX?;Asynchronous JavaScript and XML;Advanced JavaScript and XML;Asynchronous Java and XML;Automatic JavaScript and XML;1
+¿Qué es un framework?;Un conjunto de herramientas y librerías para facilitar el desarrollo de aplicaciones;Un lenguaje de programación web;Una base de datos relacional;Un protocolo de comunicación en red;1
+¿Cuál de los siguientes no es un lenguaje de programación backend?;HTML;Python;Java;Ruby;1
+¿Qué significa MVC en el desarrollo web?;Model-View-Controller;Multiple-Variable-Coding;Main-Variable-Code;Markup-Validation-Code;1
+¿Qué es Git?;Un sistema de control de versiones;Un lenguaje de programación;Un servidor web;Una base de datos relacional;1
+¿Qué significa SQL?;Structured Query Language;Simple Query Language;Software Query Language;Standardized Query Language;1
+¿Cuál de los siguientes no es un lenguaje de programación frontend?;CSS;JavaScript;HTML;Python;4
+¿Qué es un bucle en programación?;Una estructura que repite un bloque de código varias veces;Un error en el código;Una variable;Un tipo de dato;1
+¿Qué significa CMS?;Content Management System;Coding Management System;Computer Markup System;Creative Model System;1
+¿Cuál de los siguientes no es un servidor web?;Apache;MySQL;Nginx;IIS;2
+¿Qué es un bug en programación?;Un error o defecto en el código;Una característica deseada;Una optimización de rendimiento;Un comentario en el código;1
+¿Qué significa IDE?;Integrated Development Environment;Interactive Development Environment;Interface Design Environment;Integrated Design Environment;1
+¿Cuál de los siguientes no es un tipo de dato en JavaScript?;Float;Boolean;String;Function;1
+¿Qué es un archivo CSS externo?;Un archivo separado que contiene las reglas de estilo CSS;Un archivo JavaScript;Un archivo HTML;Un archivo de imagen;1
+¿Qué es un breakpoint en programación?;Un punto de interrupción en la ejecución del programa;Un error en el código;Una variable;Un bucle;1
+¿Qué es el DOM en el desarrollo web?;Document Object Model;Dynamic Object Model;Data Object Model;Document Order Model;1
+¿Cuál es el lenguaje de programación más utilizado para el desarrollo de aplicaciones móviles?;Java;Swift;C#;Python;1
+¿Qué significa CSS en el desarrollo web?;Cascading Style Sheets;Creative Style System;Code Styling Structure;Coded Style Solution;1
+¿Cuál de las siguientes opciones es un paradigma de programación?;Programación orientada a objetos;Programación de objetos;Programación basada en objetos;Programación objeto-orientada;1
+¿Qué es un algoritmo de ordenamiento?;Un método para organizar elementos en una secuencia específica;Un tipo de lenguaje de programación;Una estructura de datos;Un conjunto de instrucciones para resolver un problema;1
+¿Cuál es el símbolo utilizado para asignar valores a variables en la mayoría de los lenguajes de programación?;= (igual);+ (más);- (menos);* (asterisco);1
+¿Qué es la programación concurrente?;La ejecución de múltiples tareas simultáneamente;La ejecución de una sola tarea a la vez;La ejecución de tareas secuenciales;La ejecución de tareas en paralelo;1
+¿Cuál es el resultado de la operación lógica AND entre true y false?;false;true;0;1;1
+¿Qué es un método en programación?;Un bloque de código reutilizable que realiza una tarea específica;Un tipo de dato;Un lenguaje de programación;Un sistema operativo;1
+¿Cuál de los siguientes no es un tipo de dato primitivo en Java?;Array;int;char;boolean;1
+¿Qué significa JVM en Java?;Java Virtual Machine;Java Visual Mode;Java Variable Manager;Java Version Master;1
+¿Cuál de los siguientes no es un paradigma de programación?;Paradigma de programación musical;Paradigma de programación funcional;Paradigma de programación lógica;Paradigma de programación estructurada;1
+¿Qué es un bucle while en programación?;Una estructura de control que repite un bloque de código mientras una condición sea verdadera;Una estructura de control que repite un bloque de código un número específico de veces;Una estructura de control que repite un bloque de código al menos una vez;Una estructura de control que repite un bloque de código de manera infinita;1
+¿Cuál de las siguientes opciones es una librería de Python para el procesamiento de datos y análisis estadístico?;Pandas;Numpy;Matplotlib;Scikit-learn;1
+¿Qué es un constructor en programación orientada a objetos?;Un método especial utilizado para inicializar objetos;Un tipo de variable;Un tipo de estructura de datos;Un patrón de diseño;1
+¿Qué significa JSON?;JavaScript Object Notation;Java Syntax Object Notation;JavaScript Symbolic Object Notation;Java Symbolic Object Notation;1
+¿Cuál es el sistema de gestión de bases de datos más utilizado en el mundo?;MySQL;SQLite;MongoDB;PostgreSQL;1
+Nueva Pregunta;A;B;C;D;1
+Otra Nueva Pregunta;A;B;C;D;1
