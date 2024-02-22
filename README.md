@@ -13,10 +13,6 @@ Esta aplicación JavaFX, desarrollada con Scene Builder, está diseñada para pe
 - **Administración de Preguntas:** Capacidades para editar, eliminar y gestionar preguntas existentes.
 - **Interfaz Mejorada:** Mejora del diseño y la usabilidad de la interfaz de usuario.
 
-## Captura de Pantalla
-
-[![Captura-de-pantalla-2024-02-22-190719.jpg](https://i.postimg.cc/NMBgtC55/Captura-de-pantalla-2024-02-22-190719.jpg)](https://postimg.cc/XZ1Mc8Kb)
-
 ## Requisitos del Sistema
 
 - JDK 8 o superior.
@@ -37,3 +33,6 @@ Si deseas contribuir al desarrollo de esta aplicación, por favor, sigue los pas
 
 Esta aplicación está actualmente en desarrollo y se espera agregar más funcionalidades en futuras actualizaciones. ¡Agradecemos tu contribución y paciencia!
 
+## Captura de Pantalla
+
+[![QuizApp.jpg](https://i.postimg.cc/HLsgPcKy/QuizApp.jpg)](https://postimg.cc/mPqJPDTL)
