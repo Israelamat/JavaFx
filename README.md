@@ -15,6 +15,8 @@ Esta aplicación JavaFX, desarrollada con Scene Builder, está diseñada para pe
 
 ## Captura de Pantalla
 
+[![Captura-de-pantalla-2024-02-22-190719.jpg](https://i.postimg.cc/NMBgtC55/Captura-de-pantalla-2024-02-22-190719.jpg)](https://postimg.cc/XZ1Mc8Kb)
+
 ## Requisitos del Sistema
 
 - JDK 8 o superior.
